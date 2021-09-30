@@ -1,5 +1,5 @@
 function barni() {
-    var asd : boolean = false;
+    var dsa : boolean = false;
 }
 function Boblet(dsad: string){
 
