@@ -1,7 +1,8 @@
 function barni() {
     var dsa : boolean = false;
 }
-function Boblet(fonal: Number):Number{
-    num:Number = 12;
-    return 12/fonal;
+function Boblet(szam: Number):Number{
+    var num:Number = 12;
+    num= num-2;
+    return 12/szam;
 }
