@@ -2,6 +2,6 @@ function barni() {
     
 }
 function Boblet(fonal: Number):Number{
-    num:Number = 12;
-    return 12/fonal;
+    var num:Number = 12;
+    return num/fonal;
 }
