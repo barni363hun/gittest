@@ -1,6 +1,6 @@
 function barni() {
     
 }
-function Boblet(dsad: string){
+function Boblet(fonal: string){
 
 }
