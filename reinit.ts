@@ -4,5 +4,5 @@ function barni() {
 function Boblet(szam: Number):Number{
     var num:Number = 12;
     num= num-2;
-    return 12/szam;
+    return num/fonal;
 }
