@@ -1,5 +1,5 @@
 function barni() {
-    var asd : boolean = false;
+    var dsa : boolean = false;
 }
 function Boblet(fonal: Number):Number{
     num:Number = 12;
