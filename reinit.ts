@@ -1,5 +1,5 @@
 function barni() {
-    var dsa : boolean = false;
+    var dsa : string = 'false';
 }
 function Boblet(szam: Number):Number{
     var num:Number = 12;
